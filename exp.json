@@ -20,6 +20,10 @@
     "assetExts": ["ttf", "mp4"]
   },
   "ios": {
-    "supportsTablet": true
+    "supportsTablet": true,
+    "bundleIdentifier": "eu.fleetr.mobile",
+  },
+  "android": {
+    "package": "eu.fleetr.mobile",
   }
 }
